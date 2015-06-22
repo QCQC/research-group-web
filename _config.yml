@@ -31,7 +31,7 @@ baseurl: /research-group-web
 
 # Navigation bar links.
 navigation:
-    - title: Home
+    - title: "Home"
       link: /
     - title: People
       link: /people.html
