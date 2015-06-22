@@ -1,4 +1,4 @@
-name: PassLab
+name: Awesome Research Group
 url: http://awesome.example.edu
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -40,8 +40,4 @@ navigation:
     - title: Publications
       link: /publications.html
     - title: Code
-      link: /code.html
-    - title: Projects
-      link: /code.html
-     - title: Contact Us
       link: /code.html
