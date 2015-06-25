@@ -24,4 +24,3 @@ The key idea in approximate computing is to trade off accuracy in computation, s
 
 Taking advantage of approximate computing, though, requires overcoming many technical challenges. Programmers need a reasonable model to write code for and they need tools for testing and debugging approximate programs. The system needs to offer meaningful guarantees of output quality otherwise unusable output actually leads to energy waste. Our research aims to develop a comprehensive solution across the entire system stack, including: language and runtime techniques to express and enforce quality metrics where inaccuracy can be tolerated (EnerJ); language tools, including approximation recommenders and debuggers; compilers to communicate the information to the hardware; microarchitectures and hardware techniques for approximate execution ([NPU][nhl], SNNAP); approximate data storage and communication services; and abstractions for approximate hardware design.
 [nhl]: /
-  
