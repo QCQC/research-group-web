@@ -20,4 +20,4 @@ Read about it [here][project].
 ### Another Exciting Project
 Read about it [here][project].
 
-[project]: project/index.html
+[project]: project/AnotherProject.html
