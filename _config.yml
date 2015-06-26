@@ -29,19 +29,4 @@ front_page_news: 8
 # Base pathname for links.
 base: /research-group-web
 
-# Navigation bar links.
-navigation:
-    - title: Home
-      link: /
-    - title: People
-      link: /people.html
-    - title: Research
-      link: /research/
-    - title: Publications
-      link: /publications.html
-    - title: Software
-      link: /code.html
-    - title: Projects
-      link: /projects.html
-    - title: Contact Us
-      link: /contact.html
+
